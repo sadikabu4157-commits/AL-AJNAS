@@ -1,0 +1,7 @@
+{
+  "name": "Al-Ajnas AI Grimoire",
+  "description": "An AI assistant that reveals the secrets and knowledge contained within the ancient book 'Al-Ajnas'. Ask any question to receive detailed explanations and visual representations of the mystical seals and talismans described in the text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
